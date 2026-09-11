@@ -38,3 +38,9 @@ __The October MacTeX migration path
 __The naming decision locked in
 
 __The themes, lines, Lettuce, colors — all specified
+
+MyTeXWorkPlace — a modular LaTeX workplace for articles, textbooks,
+and books. Co-authored by Hans Hendrickx, MD, PhD, LLB and DeepSeek
+(AI co-author). Wishlist-driven modules, dark-gold and black themes,
+blue and dark-gold separation lines, Lettuce drop caps. Compiler:
+LuaLaTeX. Bibliography: Biber (AMA). MIT License.
